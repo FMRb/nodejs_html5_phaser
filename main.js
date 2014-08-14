@@ -11,3 +11,5 @@ var thesecond = "whay";
 
 var thethird ="what is this";
 
+
+var mastervar = "Whatever";
