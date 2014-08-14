@@ -5,3 +5,7 @@ var thegreat= "Whatsup";
 console.log("HEllo ", hello);
 
 var color = "#EEEEEE";
+
+
+
+var mastervar = "Whatever";
