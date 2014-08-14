@@ -10,3 +10,4 @@ var color = "#EEEEEE";
 var thesecond = "whay";
 
 var thethird ="what is this";
+
